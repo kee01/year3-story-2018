@@ -1,7 +1,10 @@
 # year3-story-2018
-repository to fork for the 'git story' assessment
+My Git-Story depicts the life of the great F1 driver Micheal Schumacher. The three chapters will contain the different parts of his life.
 
-for this repo, to use as a starting point for your story
-(and don't forget to complete your assessment by making a 'pull request' back to me...)
+Chapter01 - Early life.
 
-.. matt smith ...
+Chapter02 - Racing career.
+
+Chapter03 - Later Life.
+
+Link to Git-Story https://github.com/kee01/Git-Story/invitations
