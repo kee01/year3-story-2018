@@ -7,4 +7,4 @@ Chapter02 - Racing career.
 
 Chapter03 - Later Life.
 
-Link to Git-Story https://github.com/kee01/Git-Story/invitations
+Link to my Git-Story https://github.com/kee01/Git-Story/invitations
