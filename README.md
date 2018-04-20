@@ -1,5 +1,5 @@
 # year3-story-2018
-My Git-Story depicts the life of the great F1 driver Micheal Schumacher. The three chapters will contain the different parts of his life.
+My Git-Story depicts the life of the great F1 driver Micheal Schumacher. The three chapters will contain the different parts of his life. He was a great driver.
 
 Chapter01 - Early life.
 
