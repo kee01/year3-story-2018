@@ -9,11 +9,14 @@ Chapter03 - Later Life.
 
 Below are the related links to each of my chapters,
 
-Chapter01 - Early life: https://github.com/kee01/year3-story-2018/blob/master/Chapter01%20-%20Early%20life.html
+Chapter01 - Early life: 
+https://github.com/kee01/year3-story-2018/blob/master/Chapter01%20-%20Early%20life.html
 
-Chapter02 - Racing career: https://github.com/kee01/year3-story-2018/blob/master/Chapter02%20-%20Racing%20career.html
+Chapter02 - Racing career: 
+https://github.com/kee01/year3-story-2018/blob/master/Chapter02%20-%20Racing%20career.html
 
-Chapetr03-Later Life: https://github.com/kee01/year3-story-2018/blob/master/Chapter03%20-%20Later%20Life.html
+Chapetr03-Later Life: 
+https://github.com/kee01/year3-story-2018/blob/master/Chapter03%20-%20Later%20Life.html
 
 
 
