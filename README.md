@@ -19,5 +19,4 @@ Chapetr03-Later Life:
 https://github.com/kee01/year3-story-2018/blob/master/Chapter03%20-%20Later%20Life.html
 
 
-
 Link to my Git-Story https://github.com/kee01/year3-story-2018.
